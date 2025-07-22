@@ -1,4 +1,4 @@
-### xAI Information
+### Explainable AI Information
 * [Incubator Project](#)
 * [Type of Project](#)
 * [Version 0.0.0](#)
