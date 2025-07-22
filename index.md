@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Explaimable AI
+title: OWASP Explainable AI
 tags: example-tag
 level: 2
 type: code
